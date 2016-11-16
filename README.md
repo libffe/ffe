@@ -1,8 +1,6 @@
-![ffe](http://i.imgur.com/zkGaAOC.png)
+![ffe](http://i.imgur.com/zkGaAOC.png) ![pre-alpha](http://img.shields.io/badge/status-pre--alpha-lightgrey.svg)
 
-![pre-alpha](http://img.shields.io/badge/status-pre--alpha-lightgrey.svg)
-
-`ffe` (pronounced 'Effy') is a parsing library for various *fitness file
+`ffe` (pronounced 'effy') is a parsing library for various *fitness file
 encodings* written in C99. `ffe` enables reading and converting between
 several fitness file formats, as well as providing several utilities for
 cleaning up potential errors in the data.
