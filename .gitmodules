@@ -1,0 +1,6 @@
+[submodule "vendor/mxml"]
+	path = vendor/mxml
+	url = git://github.com/scheibo/mxml
+[submodule "vendor/date"]
+	path = vendor/date
+	url = git://github.com/scheibo/date
