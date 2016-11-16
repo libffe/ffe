@@ -1,7 +1,4 @@
-     ____  ____  ____
-    (  __)(  __)(  __)
-     ) _)  ) _)  ) _)
-    (__)  (__)  (____)
+![ffe](http://i.imgur.com/zkGaAOC.png)
 
 ![pre-alpha](http://img.shields.io/badge/status-pre--alpha-lightgrey.svg)
 
