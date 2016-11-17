@@ -1,6 +1,5 @@
 *.o
 *.a
-ffe
 gpx
 tests/out
 test
