@@ -1,4 +1,4 @@
-![ffe](http://i.imgur.com/mgS6K7f.png) ![pre-alpha](http://img.shields.io/badge/status-pre--alpha-lightgrey.svg)
+![ffe](http://i.imgur.com/2Wuqhid.png) ![pre-alpha](http://img.shields.io/badge/status-pre--alpha-lightgrey.svg)
 > fitness file encoding
 
 `ffe` (pronounced *'effy'*) is a parsing library for various fitness file
